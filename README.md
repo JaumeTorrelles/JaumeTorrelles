@@ -16,7 +16,7 @@ Each project is a learning exercise focused on strong foundations, clean archite
 
 #
 
-### *My Growing Technical Stack*
+### *My Growing Tech Stack*
 </br>
 <div align="left">
   <img alt="C++" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
